@@ -70,6 +70,18 @@ body {
   color: #0b0b07;
 }
 
+.main {
+  padding: 20px;
+  background-color: #ebfb84;
+  color: #0b0b07;
+  height: 300px;
+  width: 100%;
+  outline: none;
+  font-family: "Poppins";
+  font-size: 1.2rem;
+  border: none;
+}
+
 .hidden {
   display: none;
 }
